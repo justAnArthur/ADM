@@ -2,6 +2,8 @@
 
 ```
 
+- [ ] ⏳ 2023-10-24⏫ Test
+
 ---
 
 **Неделя 1: Введение и Teória Matematického Dôkazu**
